@@ -1,0 +1,22 @@
+{
+  "name": "horserace",
+  "version": "1.0.0",
+  "description": "CSE 264 final project. Game that is similar to the google chrome dinosaur game.",
+  "main": "client.js",
+  "scripts": {
+    "test": "node client.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosG24/264Final.git"
+  },
+  "author": "Carlos Garro, Shuang Lin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosG24/264Final/issues"
+  },
+  "homepage": "https://github.com/CarlosG24/264Final#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
