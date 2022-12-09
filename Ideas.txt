@@ -1,0 +1,28 @@
+Capy Racing Ideas
+
+- We draw all of our own images
+    - Semi 3D background
+
+- Distance counter
+    - count your own distance
+    - big at center-top of screen
+
+- Leaderboard
+    - login name    distance
+    - capy icon
+    - greyed out row with skull icon for dead players
+
+-Lobby 
+    - start of course, capy sitting
+    - Everyone votes to start the game
+    - game continues until everyone dies
+    - back to lobby after last person dies
+    - show leaderboard for previous run
+    
+- Race Course
+    - infinite length
+    - wooden log obstacle
+    
+
+
+	
